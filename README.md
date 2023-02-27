@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Aplicação que gera piadas conforme a categoria escolhida<br>
-Originalmente as piadas recebidas estão em inglês, utilizei uma API para fazer a tradução<br>
+Originalmente as piadas recebidas estão em inglês, utilizei uma API para fazer a tradução<br><br>
 API utilizada para buscar piadas e categorias: <a href="https://api.chucknorris.io/">chucknorris.io</a><br>
 API utilizada para traduzir para português: <a href="https://cloud.google.com/translate/docs/reference/rest/?apix=true">Google translate API</a>
 
