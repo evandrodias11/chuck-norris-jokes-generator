@@ -1,7 +1,7 @@
 <h1 align="center"> Gerador de Piadas do Chuck Norris </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/eSsnqLq.png" width="95%">
+  <img src="https://imgur.com/vYW1QZB.gif" width="50%">
 </p>
 
 ## 🚀 Tecnologias
