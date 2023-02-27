@@ -20,7 +20,8 @@ Originalmente as piadas recebidas estão em inglês, utilizei uma API para fazer
 API utilizada para buscar piadas e categorias: <a href="https://api.chucknorris.io/">chucknorris.io</a><br>
 API utilizada para traduzir para português: <a href="https://cloud.google.com/translate/docs/reference/rest/?apix=true">Google translate API</a>
 
-- [Acesse o projeto finalizado, online](https://previsaodotempo-app.netlify.app/)
+- [Acesse o projeto finalizado, online](https://chuck-norris-joke-generators.netlify.app/)<BR>
+NÃO VAI GERAR AS PIADAS POIS O ARQUIVO utils.js FICOU DE FORA DO DEPLOY
 
 ## ⚙ Configuração
 
