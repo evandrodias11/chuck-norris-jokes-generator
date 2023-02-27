@@ -20,9 +20,6 @@ Originalmente as piadas recebidas estão em inglês, utilizei uma API para fazer
 API utilizada para buscar piadas e categorias: <a href="https://api.chucknorris.io/">chucknorris.io</a><br>
 API utilizada para traduzir para português: <a href="https://cloud.google.com/translate/docs/reference/rest/?apix=true">Google translate API</a>
 
-- [Acesse o projeto finalizado, online](https://chuck-norris-joke-generators.netlify.app/)<BR>
-NÃO VAI GERAR AS PIADAS POIS O ARQUIVO utils.js FICOU DE FORA DO DEPLOY
-
 ## ⚙ Configuração
 
 Criei um arquivo na pasta raíz chamado utils.js, onde coloquei a chave da api do google translate<br>
@@ -30,7 +27,7 @@ Criei um arquivo na pasta raíz chamado utils.js, onde coloquei a chave da api d
   export const API_KEY = "api key aqui";
 ```
 
-Você precisa gerar uma chave de api do google.
+Você precisa gerar uma chave de api própria.
 
 ## 📚 Referências
 
