@@ -30,6 +30,8 @@ Criei um arquivo na pasta raíz chamado utils.js, onde coloquei a chave da api d
   export const API_KEY = "api key aqui";
 ```
 
+Você precisa gerar uma chave de api do google.
+
 ## 📚 Referências
 
 <a href="https://www.youtube.com/watch?v=Xt-V2LOFMH8&t=19s">Vídeo do youtube</a><br>
